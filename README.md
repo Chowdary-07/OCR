@@ -15,3 +15,4 @@ This is a simple GUI OCR developed with Python, PyQt and Google Tesseract Engine
 ## RUN the program in local machine
 ## select the image with GUI
 ## The extracted text will be displayed on the Output Terminal
+## watch above .mp4 video if need
