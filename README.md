@@ -9,7 +9,6 @@ This is a simple GUI OCR developed with Python, PyQt and Google Tesseract Engine
 - pip install pytesseract
 - local tesseract engine 32-bit or 54-bit
 - python 3.7 or later
-- 
 
 
 ## RUN the program in local machine
